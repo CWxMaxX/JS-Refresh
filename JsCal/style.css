@@ -91,6 +91,7 @@ main {
   font-size: 2em;
   margin: 0 10px;
 }
+
 .fnum {
   font-size: 1.3em;
   margin: 0 10px;
@@ -111,4 +112,8 @@ main {
 
 .grid-item.clear-all {
   grid-column: 3/5;
+}
+
+button {
+  color: rgb(1, 1, 116);
 }
